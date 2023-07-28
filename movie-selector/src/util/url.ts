@@ -1,0 +1,1 @@
+export const BASE_URL = "http://www.kobis.or.kr/kobisopenapi/webservice/rest/"
