@@ -1,10 +1,10 @@
-import { Title as Title } from "./styles"
+import { MoviesTitle } from "./styles"
 
 
 export default function MovieTitle({ children }: { children: React.ReactNode }) {
   return (
-    <Title>
+    <MoviesTitle>
       {children}
-    </Title>
+    </MoviesTitle>
   )
 }
